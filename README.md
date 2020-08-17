@@ -6,6 +6,8 @@ Also, it is a work in progress. The separation of the interface and the implemen
 
 Developed by M. Faria, in the context of MarineUAS program, Innovative Training Network in Autonomous Unmanned Aerial Systems for Marine and Costal Monitoring.
 
+This code has been followed up in the repository https://github.com/margaridaCF/FlyingOctomap_code latest changes on tag 2019-09-04_1442_nearesNeighbour
+
 ==== Acknowlegements ====
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 642153
